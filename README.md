@@ -1,1 +1,1 @@
-# FistRepo
+# CNN-mnist
